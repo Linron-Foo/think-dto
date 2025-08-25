@@ -5,6 +5,12 @@
 - 便捷的数据验证机制（基于ThinkPHP8）
 - 服务层注解注入(#[Inject])
 
+### 安装
+
+```
+composer require linron/think-dto:dev-main
+```
+
 ### 用法
 #### 控制器
 
