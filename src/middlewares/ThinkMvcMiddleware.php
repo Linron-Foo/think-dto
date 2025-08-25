@@ -7,7 +7,7 @@ use linron\thinkdto\traits\ThinkMvcTrait;
 use think\Request;
 
 /**
- * dto请求中间件
+ * DTO请求中间件
  */
 class ThinkMvcMiddleware
 {
