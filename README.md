@@ -8,7 +8,7 @@
 ### 安装
 
 ```
-composer require linron/think-dto:dev-main
+composer require linron/think-dto
 ```
 
 ### 用法
