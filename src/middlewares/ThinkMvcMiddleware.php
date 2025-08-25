@@ -12,6 +12,7 @@ use think\Request;
 class ThinkMvcMiddleware
 {
     use ThinkMvcTrait;
+    
     use InjectTrait;
 
     /**
