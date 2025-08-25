@@ -1,0 +1,20 @@
+{
+  "name": "linron/think-dto",
+  "description": "A package that makes ThinkPHP development experience more concise and better.",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Linron",
+      "email": "547042792@qq.com"
+    }
+  ],
+  "require": {
+    "php": ">=8.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "linron\\thinkdto\\": "./src/"
+    }
+  }
+}
